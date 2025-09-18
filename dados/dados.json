@@ -1,0 +1,360 @@
+{
+    "turno_atual": 300,
+    "reinos": {
+        "Grimilch Caliphate": {
+            "populacao": 10541427,
+            "tropas": {
+                "Infantaria_Leve": 111770,
+                "Infantaria_Pesada": 58000,
+                "Infantaria_Armada": 0,
+                "Blindados_Leves": 0,
+                "Blindados_Pesados": 0,
+                "Fragatas": 0,
+                "Couracados": 0,
+                "Artilharia": 0
+            },
+            "fundos": 685742971.0437766,
+            "economia": {
+                "receita": {
+                    "receita_populacional": {
+                        "valor": 5279756.084116354,
+                        "turnos": "permanente"
+                    },
+                    "Receita Fazendas": {
+                        "valor": 1186083.1482172806,
+                        "turnos": "permanente"
+                    },
+                    "juros_poupanca": {
+                        "valor": 9176703.523,
+                        "turnos": "permanente"
+                    },
+                    "Receita Industrias": {
+                        "valor": 813527.5862768706,
+                        "turnos": "permanente"
+                    },
+                    "Parcela Empr\u00e9stimo para Cakelian (15 parcelas)": {
+                        "valor": 600000.0,
+                        "turnos": 15
+                    }
+                },
+                "despesa": {
+                    "manutencao_exercito": {
+                        "valor": 4017700,
+                        "turnos": "permanente"
+                    }
+                }
+            },
+            "tecnologias": {
+                "Armadura de placas": true,
+                "Infantaria Pesada": true,
+                "Bandagem": true,
+                "Proeficiencia I": true,
+                "Defesa I": true,
+                "Fazendas I": true,
+                "Torres I": true,
+                "Bancos": true,
+                "Defesa II": true,
+                "Proeficiencia II": true,
+                "Fazendas II": true,
+                "Cercos I": true,
+                "Torres II": true,
+                "Defesa III": true,
+                "Engenharia Naval": true,
+                "Proeficiencia III": true,
+                "Industrias I": true,
+                "Fazendas III": true,
+                "Cercos II": true,
+                "Defesa IV": true,
+                "Fragatas": true,
+                "Industrias II": true,
+                "Torres III": true,
+                "Proeficiencia IV": true,
+                "Defesa V": true,
+                "Fazendas IV": true,
+                "Proeficiencia V": true,
+                "Defesa VI": true,
+                "Armas de Fogo I": true
+            },
+            "fundos_previstos": 13038370.341610506
+        },
+        "Kingdom of Nime": {
+            "populacao": 7355926,
+            "tropas": {
+                "Infantaria_Leve": 1620,
+                "Infantaria_Pesada": 57500,
+                "Infantaria_Armada": 0,
+                "Blindados_Leves": 0,
+                "Blindados_Pesados": 0,
+                "Fragatas": 0,
+                "Couracados": 0,
+                "Artilharia": 0
+            },
+            "fundos": 135682011.09484082,
+            "economia": {
+                "receita": {
+                    "receita_populacional": {
+                        "valor": 3741630.3216168736,
+                        "turnos": "permanente"
+                    },
+                    "Receita Fazendas": {
+                        "valor": 892270.972678419,
+                        "turnos": "permanente"
+                    },
+                    "Receita Industrias": {
+                        "valor": 536639.4832489351,
+                        "turnos": "permanente"
+                    },
+                    "juros_poupanca": {
+                        "valor": 286000.0,
+                        "turnos": "permanente"
+                    }
+                },
+                "despesa": {
+                    "manutencao_exercito": {
+                        "valor": 2891200,
+                        "turnos": "permanente"
+                    }
+                }
+            },
+            "tecnologias": {
+                "Torres I": true,
+                "Armadura de placas": true,
+                "Proeficiencia I": true,
+                "Bandagem": true,
+                "Defesa I": true,
+                "Infantaria Pesada": true,
+                "Fazendas I": true,
+                "Defesa II": true,
+                "Bancos": true,
+                "Torres II": true,
+                "Defesa III": true,
+                "Proeficiencia II": true,
+                "Cercos I": true,
+                "Proeficiencia III": true,
+                "Defesa IV": true,
+                "Fazendas II": true,
+                "Industrias I": true,
+                "Engenharia Naval": true,
+                "Fragatas": true,
+                "Proeficiencia IV": true,
+                "Defesa V": true,
+                "Fazendas III": true,
+                "Industrias II": true,
+                "Fazendas IV": true,
+                "Armas de Fogo I": true,
+                "Granadas": true
+            },
+            "fundos_previstos": 2565340.7775442274
+        },
+        "Cekelelian Khaganate": {
+            "populacao": 6771128,
+            "tropas": {
+                "Infantaria_Leve": 31398,
+                "Infantaria_Pesada": 23496,
+                "Infantaria_Armada": 0,
+                "Blindados_Leves": 0,
+                "Blindados_Pesados": 0,
+                "Fragatas": 0,
+                "Couracados": 0,
+                "Artilharia": 0
+            },
+            "fundos": 70390765.41507638,
+            "economia": {
+                "receita": {
+                    "receita_populacional": {
+                        "valor": 3514532.5357528054,
+                        "turnos": "permanente"
+                    },
+                    "Receita Fazendas": {
+                        "valor": 265615.7197644623,
+                        "turnos": "permanente"
+                    },
+                    "Receita Industrias": {
+                        "valor": 167614.08647053727,
+                        "turnos": "permanente"
+                    }
+                },
+                "despesa": {
+                    "manutencao_exercito": {
+                        "valor": 1488780,
+                        "turnos": "permanente"
+                    },
+                    "Empr\u00e9stimo do Kalifado (15 parcelas)": {
+                        "valor": 600000.0,
+                        "turnos": 15
+                    }
+                }
+            },
+            "tecnologias": {
+                "Proeficiencia I": true,
+                "Defesa I": true,
+                "Fazendas I": true,
+                "Armadura de placas": true,
+                "Infantaria Pesada": true,
+                "Cercos I": true,
+                "Bandagem": true,
+                "Bancos": true,
+                "Fazendas II": true,
+                "Defesa II": true,
+                "Proeficiencia II": true,
+                "Proeficiencia III": true,
+                "Torres I": true,
+                "Defesa III": true,
+                "Armas de Fogo I": true,
+                "Defesa IV": true,
+                "Industrias I": true,
+                "Cercos II": true,
+                "Granadas": true,
+                "Fazendas III": true
+            },
+            "fundos_previstos": 1858982.341987805
+        },
+        "Diocese of Chiling": {
+            "populacao": 2635131,
+            "tropas": {
+                "Infantaria_Leve": 966,
+                "Infantaria_Pesada": 0,
+                "Infantaria_Armada": 0,
+                "Blindados_Leves": 0,
+                "Blindados_Pesados": 0,
+                "Fragatas": 0,
+                "Couracados": 0,
+                "Artilharia": 0
+            },
+            "fundos": 915967059.6370003,
+            "economia": {
+                "receita": {
+                    "receita_populacional": {
+                        "valor": 1355610.2052242258,
+                        "turnos": "permanente"
+                    },
+                    "Receita Fazendas": {
+                        "valor": 306877.7468077108,
+                        "turnos": "permanente"
+                    },
+                    "juros_poupanca": {
+                        "valor": 15474152.1285,
+                        "turnos": "permanente"
+                    },
+                    "Receita Industrias": {
+                        "valor": 1357955.490962269,
+                        "turnos": "permanente"
+                    }
+                },
+                "despesa": {
+                    "manutencao_exercito": {
+                        "valor": 9660,
+                        "turnos": "permanente"
+                    }
+                }
+            },
+            "tecnologias": {
+                "Fazendas I": true,
+                "Torres I": true,
+                "Bancos": true,
+                "Fazendas II": true,
+                "Industrias I": true,
+                "Fazendas III": true,
+                "Industrias II": true,
+                "Fazendas IV": true,
+                "Industrias III": true,
+                "Industrias IV": true
+            },
+            "fundos_previstos": 18484935.571494207
+        },
+        "Grand Duchy of Redckeria": {
+            "populacao": 2967296,
+            "tropas": {
+                "Infantaria_Leve": 21600,
+                "Infantaria_Pesada": 8000,
+                "Infantaria_Armada": 0,
+                "Blindados_Leves": 0,
+                "Blindados_Pesados": 0,
+                "Fragatas": 0,
+                "Couracados": 0,
+                "Artilharia": 0
+            },
+            "fundos": 362611247.4636003,
+            "economia": {
+                "receita": {
+                    "receita_populacional": {
+                        "valor": 1438678.8801040067,
+                        "turnos": "permanente"
+                    },
+                    "Receita Fazendas": {
+                        "valor": 68003.65468002188,
+                        "turnos": "permanente"
+                    },
+                    "juros_poupanca": {
+                        "valor": 6222448.466,
+                        "turnos": "permanente"
+                    },
+                    "Receita Industrias": {
+                        "valor": 72620.37392988063,
+                        "turnos": "permanente"
+                    }
+                },
+                "despesa": {
+                    "manutencao_exercito": {
+                        "valor": 616000,
+                        "turnos": "permanente"
+                    }
+                }
+            },
+            "tecnologias": {
+                "Torres I": true,
+                "Armadura de placas": true,
+                "Fazendas I": true,
+                "Infantaria Pesada": true,
+                "Proeficiencia I": true,
+                "Bancos": true,
+                "Fazendas II": true,
+                "Industrias I": true,
+                "Bandagem": true,
+                "Cercos I": true,
+                "Defesa I": true,
+                "Defesa II": true,
+                "Defesa III": true,
+                "Defesa IV": true,
+                "Proeficiencia II": true,
+                "Defesa V": true,
+                "Defesa VI": true,
+                "Proeficiencia III": true,
+                "Proeficiencia IV": true,
+                "Proeficiencia V": true,
+                "Torres II": true,
+                "Torres III": true,
+                "Cercos II": true,
+                "Cercos III": true,
+                "Armas de Fogo I": true,
+                "Armaduras Modulares": true,
+                "Granadas": true,
+                "Engenharia Naval": true,
+                "Fragatas": true
+            },
+            "fundos_previstos": 7185751.374713909
+        }
+    },
+    "banco": {
+        "Grimilch Caliphate": {
+            "poupanca": 1411800542.0,
+            "emprestimos": []
+        },
+        "Kingdom of Nime": {
+            "poupanca": 44000000.0,
+            "emprestimos": []
+        },
+        "Cekelelian Khaganate": {
+            "poupanca": 0,
+            "emprestimos": []
+        },
+        "Diocese of Chiling": {
+            "poupanca": 2380638789.0,
+            "emprestimos": []
+        },
+        "Grand Duchy of Redckeria": {
+            "poupanca": 957299764.0,
+            "emprestimos": []
+        }
+    }
+}
