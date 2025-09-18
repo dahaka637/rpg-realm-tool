@@ -29,6 +29,8 @@ mapas) e **People Playground** (para simulação visual de batalhas).
 
 ------------------------------------------------------------------------
 
+<img width="989" height="854" alt="image" src="https://github.com/user-attachments/assets/fa579a6f-ffcb-495a-a26c-adf115fb7e90" />
+
 ## 🏗️ Estrutura do Projeto
 
 -   `main.py` → núcleo do aplicativo; inicializa a interface principal,
@@ -44,6 +46,8 @@ mapas) e **People Playground** (para simulação visual de batalhas).
     arquivo `dados.json` com as informações dos reinos.
 
 ------------------------------------------------------------------------
+
+<img width="980" height="841" alt="image" src="https://github.com/user-attachments/assets/9c3eba16-9bbe-4d2b-b218-e6f29968305d" />
 
 ## 🚀 Como Executar
 
@@ -71,6 +75,8 @@ externas**, permitindo mais imersão em cenários de RPG de mesa ou
 narrativos.
 
 ------------------------------------------------------------------------
+
+<img width="593" height="768" alt="image" src="https://github.com/user-attachments/assets/e1d6bddf-e148-4aa7-aa70-4d02cd6d082c" />
 
 ## ⚠️ Aviso
 
